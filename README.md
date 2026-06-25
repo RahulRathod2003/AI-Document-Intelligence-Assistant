@@ -2,6 +2,9 @@
 
 AI-powered document analysis platform built using Python, Streamlit, FAISS, and Groq LLM.
 
+# Live Demo
+https://ai-document-intelligence-assistant-atsyfsskfp5gwjr3gogsrx.streamlit.app/
+
 ## Features
 - Research Paper Q&A Chatbot
 - Research Gap Finder
